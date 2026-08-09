@@ -1,0 +1,10 @@
+.venv/
+data/
+docker/
+backups/
+models/
+.env
+
+*.pyc
+
+dump/
